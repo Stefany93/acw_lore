@@ -40,16 +40,13 @@ Yes you can, but you must be careful not to mess things up.
 
 ### I promise I won't mess things up, how do I add more quotes? 
 
-Go to wp-content/plugins/acw_lore/acw_lore_quotes.txt
+Go to `wp-content/plugins/acw_lore/acw_lore_quotes.txt`
 In the file you will see a bunch of lines. Those are the quotes.
-Write your quote, but be careful, each quote must end with a line break "\n"
-For example, if you want to add the quote "Why do men fight who were born to be brothers? - James Longstreet"
+Write your quote, but be careful, each quote must end with a line break `"\n"`
+For example, if you want to add the quote _"Why do men fight who were born to be brothers? - James Longstreet"_
 by Longstret, you add it at the end of the file, below the last quote and in one 
-straight line. If the line breaks (\n) automatically, that's fine. If you break
-it intentionally, the quote will be halved in two. Like if you write
-"Why do men fight who
- were born to be brothers?" - James Longstreet
- Two quotes will come out of that. "Why do men fight who" and "were born to be brothers? - James Longstreet" and that would not be cool. 
+straight line. If the line breaks `(\n)` automatically, that's fine. If you break
+it intentionally, the quote will be halved in two and that would not be cool. 
 
 ### I messed things up, how can I fix everything?
 
