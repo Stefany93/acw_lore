@@ -1,4 +1,4 @@
-=== ACW Lore ===
+ #ACW Lore
 Contributors: Azumi93
 Donate link: PayPal - stefany.dyulgerova@gmail.com
 Tags: the american civil war, quotes, the american civil war quotes
